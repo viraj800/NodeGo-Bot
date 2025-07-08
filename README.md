@@ -39,3 +39,20 @@ For any inquiries or issues, please reach out via GitHub or open an issue in the
 ---
 
 Thank you for checking out NodeGo Bot! We hope it helps you make the most of your farming on nodego.ai. Happy farming! 🌾
+
+### Tags 
+- nodejs
+- crypto
+- mining
+- cryptocurrency
+- automated
+- airdrop
+- nodegoai
+- nodego
+- nodego-bot
+- nodegoai-auto-bot
+- nodego-miner
+- nodego-reger
+- nodego-multifarmer
+- nodego-extension-bot
+- node-go
